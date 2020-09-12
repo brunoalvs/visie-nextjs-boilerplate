@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Visie Boilerplate - Creating a Next App</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
